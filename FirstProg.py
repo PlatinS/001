@@ -8,4 +8,4 @@ def fib(n):
 print("Hello world!")
 a = 5
 if a == 5:
-    print('Равно 5!')
+    print('Р Р°РІРЅРѕ 5!')
